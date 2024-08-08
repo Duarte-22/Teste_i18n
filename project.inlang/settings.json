@@ -7,10 +7,5 @@
 	},
 	"messageLintRuleLevels": {
 		"messageLintRule.inlang.emptyPattern": "error",
-		"messageLintRule.inlang.identicalPattern": "warning",
-		"messageLintRule.inlang.camelCaseId": "warning",
-		"messageLintRule.inlang.missingTranslation": "warning",
-		"messageLintRule.inlang.snakeCaseId": "warning",
-		"messageLintRule.inlang.validJsIdentifier": "warning",
 	}
 }
