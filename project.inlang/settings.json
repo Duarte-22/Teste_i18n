@@ -5,7 +5,4 @@
 	"plugin.inlang.json": {
 		"pathPattern": "./locales/{languageTag}.json"
 	},
-	"messageLintRuleLevels": {
-		"messageLintRule.inlang.emptyPattern": "error",
-	},
 }
