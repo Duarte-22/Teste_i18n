@@ -7,5 +7,5 @@
 	},
 	"messageLintRuleLevels": {
 		"messageLintRule.inlang.emptyPattern": "error",
-	}
+	},
 }
